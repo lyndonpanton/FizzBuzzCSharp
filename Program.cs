@@ -14,7 +14,7 @@ namespace FizzBuzzCSharp
 					Console.Write("Enter the desired upper limit: ");
 					if (int.TryParse(Console.ReadLine(), out int userUpperLimit))
 					{
-
+						FizzBuzz(userUpperLimit);
 
 						break;
 					}
