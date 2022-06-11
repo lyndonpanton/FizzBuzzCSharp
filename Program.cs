@@ -8,7 +8,27 @@ namespace FizzBuzzCSharp
 	{
 		static void Main(string[] args)
 		{
+			while (true)
+			{
+				try {
+					Console.Write("Enter the desired upper limit: ");
+					if (int.TryParse(Console.ReadLine(), out int userUpperLimit))
+					{
 
+
+						break;
+					}
+					else
+					{
+						throw new ArgumentException(String.Format("Input cannot be parsed to an integer"), "userUpperLimit");
+					}
+				}
+				catch (ArgumentException e)
+				{
+					Console.WriteLine($"{e.GetType().Name}: {e.Message}");
+					Console.WriteLine("Please try again...\n");
+				}
+			}
 		}
 
 		public void FizzBuzz(int upperLimit)
