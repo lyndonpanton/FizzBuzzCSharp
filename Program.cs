@@ -13,6 +13,13 @@ namespace FizzBuzzCSharp
 
 		public void FizzBuzz(int upperLimit)
 		{
+			if (upperLimit <= 0)
+			{
+				Console.WriteLine("Upper Limit must be greater than 0...");
+				Console.WriteLine("Returning default output...");
+
+				upperLimit = 100;
+			}
 
 			for (int i = 1 i <= upperLimit; i++)
 			{
