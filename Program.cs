@@ -11,9 +11,9 @@ namespace FizzBuzzCSharp
 
 		}
 
-		public List<int> FizzBuzz(int upperLimit)
+		public void FizzBuzz(int upperLimit)
 		{
-
+			
 		}
 	}
 }
