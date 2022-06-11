@@ -31,7 +31,7 @@ namespace FizzBuzzCSharp
 			}
 		}
 
-		public void FizzBuzz(int upperLimit)
+		public static void FizzBuzz(int upperLimit)
 		{
 			if (upperLimit <= 0)
 			{
