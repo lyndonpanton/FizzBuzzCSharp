@@ -14,7 +14,7 @@ namespace FizzBuzzCSharp
 		public void FizzBuzz(int upperLimit)
 		{
 
-			for (int i = 1 i <= 20; i++)
+			for (int i = 1 i <= upperLimit; i++)
 			{
 				if (i % 15 == 0)
 					Console.WriteLine("FizzBuzz");
