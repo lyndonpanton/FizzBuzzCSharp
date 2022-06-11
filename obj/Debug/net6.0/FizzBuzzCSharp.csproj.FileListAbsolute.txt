@@ -1,0 +1,15 @@
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\FizzBuzzCSharp.csproj.AssemblyReference.cache
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\FizzBuzzCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\FizzBuzzCSharp.AssemblyInfoInputs.cache
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\FizzBuzzCSharp.AssemblyInfo.cs
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\FizzBuzzCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\bin\Debug\net6.0\FizzBuzzCSharp.exe
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\bin\Debug\net6.0\FizzBuzzCSharp.deps.json
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\bin\Debug\net6.0\FizzBuzzCSharp.runtimeconfig.json
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\bin\Debug\net6.0\FizzBuzzCSharp.dll
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\bin\Debug\net6.0\FizzBuzzCSharp.pdb
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\FizzBuzzCSharp.dll
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\refint\FizzBuzzCSharp.dll
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\FizzBuzzCSharp.pdb
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\FizzBuzzCSharp.genruntimeconfig.cache
+C:\Users\Lyndon\Desktop\c#\projects\FizzBuzzCSharp\obj\Debug\net6.0\ref\FizzBuzzCSharp.dll
